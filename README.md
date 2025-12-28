@@ -7,7 +7,7 @@
   <br>
   <em>(Above: The algorithm evolving over 150 generations to find the optimal path between 24 cities)</em>
 </p>
-*(Above: The algorithm evolving over 150 generations to find the optimal path between 24 cities)*
+
 
 ## 🚀 Overview
 
