@@ -48,7 +48,7 @@ The algorithm mimics the process of natural evolution:
     ```
 3.  Run the optimizer:
     ```bash
-    python route_evolver.py
+    python RouteEvolver.py
     ```
     *The script will generate `generation_X.png` files showing the optimization progress.*
 
