@@ -2,7 +2,11 @@
 
 ### Visualizing the Traveling Salesman Problem with Genetic Algorithms
 
-![Route Optimization Demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="Route Optimization Demo" width="600">
+  <br>
+  <em>(Above: The algorithm evolving over 150 generations to find the optimal path between 24 cities)</em>
+</p>
 *(Above: The algorithm evolving over 150 generations to find the optimal path between 24 cities)*
 
 ## 🚀 Overview
