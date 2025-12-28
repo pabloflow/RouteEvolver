@@ -40,7 +40,7 @@ The algorithm mimics the process of natural evolution:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/pabloflow/RouteEvolver.git](https://github.com/pabloflow/RouteEvolver.git)
+    git clone https://github.com/pabloflow/RouteEvolver.git
     ```
 2.  Install dependencies:
     ```bash
